@@ -1,5 +1,5 @@
 {
-  "name": "Hogeschool Utrecht",
+  "name": "hogeschool-utrecht",
   "version": "1.0.0",
   "description": "Plugins for Hogeschool Utrecht",
   "owner": {
@@ -11,8 +11,7 @@
       "name": "open-ict",
       "description": "Plugin for Open ICT",
       "version": "1.0.0",
-      "source": "./plugins/open-ict-competenties",
-      "category": "education"
+      "source": "./plugins/open-ict"
     }
   ]
 }
